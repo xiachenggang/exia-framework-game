@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="202,269" extention="Button">
+  <displayList>
+    <loader id="n0_f6z1" name="n0" xy="0,0" size="200,269" url="ui://te0wfvjyvtv42u" autoSize="true"/>
+    <loader id="n3_f6z1" name="n3" xy="0,0" size="50,50" url="ui://te0wfvjyf6z16f"/>
+    <loader id="n1_f6z1" name="n1" xy="0,0" size="198,267" url="ui://te0wfvjyvtv42v" autoSize="true"/>
+    <text id="n2_f6z1" name="n2" xy="5,226" size="71,39" fontSize="28" color="#ffffff" strokeColor="#000000" strokeSize="0.5" text="145K"/>
+    <loader id="n4_f6z1" name="n4" xy="4,3" size="68,68" touchable="false" url="ui://te0wfvjyvtv435" autoSize="true"/>
+    <image id="n5_f6z1" name="n5" src="vtv439" fileName="common_res/qulity/hero/card_half/quality_card_heart.png" xy="144,5"/>
+    <text id="n6_f6z1" name="n6" xy="156,12" size="24,26" fontSize="18" color="#ffffff" strokeColor="#000000" strokeSize="0.5" text="26"/>
+    <text id="n7_f6z1" name="n7" xy="9,204" size="27,24" fontSize="16" color="#ffffff" strokeColor="#000000" strokeSize="0.5" text="Lv."/>
+    <component id="n8_f6z1" name="n8" src="f6z16c" fileName="common_component/hero/HeroStart.xml" xy="89,229" scale="0.45,0.45"/>
+    <graph id="n12_f6z1" name="n12" xy="-1,0" size="202,269" visible="false" alpha="0.5" touchable="false" type="rect" lineSize="0" fillColor="#ff000000" corner="1"/>
+  </displayList>
+  <Button/>
+</component>

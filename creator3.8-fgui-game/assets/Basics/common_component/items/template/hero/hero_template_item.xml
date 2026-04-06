@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="110,110">
+  <displayList>
+    <loader id="n0_f6z1" name="headFrame" xy="0,0" size="110,110" group="n9_uecd" url="ui://te0wfvjyvtv42m" autoSize="true"/>
+    <loader id="n1_f6z1" name="headIcon" xy="0,0" size="50,50" group="n9_uecd" autoSize="true"/>
+    <component id="n3_f6z1" name="n3" src="f6z16e" fileName="common_component/hero/item/occItem.xml" xy="-16,-17" size="68,68" group="n9_uecd" scale="0.3,0.3"/>
+    <image id="n5_uecd" name="n5" src="uecd6k" fileName="common_res/qulity/hero/head/quality_head_mask.png" xy="5,85" group="n9_uecd"/>
+    <text id="n6_uecd" name="n6" xy="36,85" size="37,22" group="n9_uecd" fontSize="14" color="#ffffff" autoSize="none" strokeColor="#000000" strokeSize="0.5" text="145K"/>
+    <component id="n4_uecd" name="n4" src="f6z16c" fileName="common_component/hero/item/HeroStart.xml" xy="50,72" group="n9_uecd" scale="0.25,0.25"/>
+    <group id="n9_uecd" name="n9" xy="-16,-17" size="286,153"/>
+  </displayList>
+</component>

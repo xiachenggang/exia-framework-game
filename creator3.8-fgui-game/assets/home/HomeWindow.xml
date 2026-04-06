@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1280,720">
+  <displayList>
+    <component id="n1_vtv4" name="n1" src="vtv45t" fileName="common_component/quickComponent/common_bg_component.xml" pkg="te0wfvjy" xy="0,0"/>
+    <component id="n2_vtv4" name="n2" src="vtv465" fileName="common_component/bottom/foot/foot.xml" pkg="te0wfvjy" xy="264,627"/>
+  </displayList>
+</component>

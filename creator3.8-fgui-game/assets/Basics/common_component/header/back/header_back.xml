@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="240,40">
+  <displayList>
+    <image id="n0_vtv4" name="n0" src="vtv414" fileName="common_res/head/back_bg.png" xy="-11,-9"/>
+    <component id="n1_vtv4" name="n1" src="vtv45s" fileName="common_component/header/back/questionBtn.xml" xy="201,3"/>
+    <text id="n3_vtv4" name="n3" xy="52,3" size="76,34" fontSize="24" color="#993333" strokeColor="#ffffff" text="标题名"/>
+    <component id="n2_vtv4" name="n2" src="vtv45r" fileName="common_component/header/back/headerBackBtn.xml" xy="-12,-9"/>
+  </displayList>
+</component>

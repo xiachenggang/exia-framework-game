@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "ES6",
+        "experimentalDecorators": true,
+        "strict": false,
+        "strictNullChecks": false,
+        "skipLibCheck": true,
+        "moduleResolution": "Node",
+        "esModuleInterop": true
+    },
+    "include": ["assets/script/**/*.ts"],
+    "exclude": ["node_modules", "temp", "library", "build", "native"]
+}

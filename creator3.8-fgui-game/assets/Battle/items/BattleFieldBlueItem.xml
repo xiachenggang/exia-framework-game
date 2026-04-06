@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,142">
+  <displayList>
+    <image id="n0_uecd" name="n0" src="vtv4k" fileName="image/battle_bluebg.png" xy="59,0" size="162,142" group="n2_uecd"/>
+    <image id="n6_uecd" name="n6" src="vtv418" fileName="image/battle_bluebg_bg.png" xy="1,9" group="n2_uecd"/>
+    <image id="n1_uecd" name="n1" src="vtv4j" fileName="image/battle_arrow.png" xy="15,51" size="49,35" group="n2_uecd" flip="hz"/>
+    <image id="n3_uecd" name="n3" src="vtv419" fileName="image/battle_bluebg_choose.png" xy="67,4" group="n2_uecd"/>
+    <text id="n4_uecd" name="n4" xy="79,58" size="12,22" group="n2_uecd" fontSize="14" color="#ffffff" strokeColor="#000000" strokeSize="0.5" text="1"/>
+    <component id="n5_uecd" name="n5" src="f6z16g" fileName="common_component/items/template/hero/hero_template_item.xml" pkg="te0wfvjy" xy="95,16" group="n2_uecd"/>
+    <group id="n2_uecd" name="n2" xy="1,0" size="250,142"/>
+  </displayList>
+</component>

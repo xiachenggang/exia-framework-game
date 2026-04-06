@@ -1,0 +1,27 @@
+{
+  "name": "1",
+  "uuid": "81ad1dd4-b810-4756-a832-6aafbb1cfcaf",
+  "creator": {
+    "version": "3.8.8"
+  },
+  "scripts": {
+    "lint": "eslint assets/script",
+    "lint:fix": "eslint assets/script --fix"
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^9.39.4",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "typescript-eslint": "^8.57.1"
+  },
+  "dependencies": {
+    "@xiacg/exia-event": "^1.0.1",
+    "@xiacg/exia-assets": "^1.0.1",
+    "@xiacg/exia-core": "^1.0.1",
+    "@xiacg/exia-net": "^1.0.1",
+    "@xiacg/exia-ui": "^1.0.1",
+    "fairygui-cc": "^1.2.2",
+    "ts-node": "^10.9.2"
+  },
+  "version": "1.0.0"
+}

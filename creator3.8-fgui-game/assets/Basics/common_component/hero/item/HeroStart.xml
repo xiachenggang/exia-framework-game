@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="220,64">
+  <displayList>
+    <loader id="n0_f6z1" name="n0" xy="0,0" size="68,64" group="n5_f6z1" touchable="false" url="ui://te0wfvjyvtv429" autoSize="true"/>
+    <loader id="n1_f6z1" name="n1" xy="38,0" size="68,64" group="n5_f6z1" touchable="false" url="ui://te0wfvjyvtv429" autoSize="true"/>
+    <loader id="n2_f6z1" name="n2" xy="76,0" size="68,64" group="n5_f6z1" touchable="false" url="ui://te0wfvjyvtv429" autoSize="true"/>
+    <loader id="n3_f6z1" name="n3" xy="114,0" size="68,64" group="n5_f6z1" touchable="false" url="ui://te0wfvjyvtv429" autoSize="true"/>
+    <loader id="n4_f6z1" name="n4" xy="152,0" size="68,64" group="n5_f6z1" touchable="false" url="ui://te0wfvjyvtv429" vAlign="middle" autoSize="true"/>
+    <group id="n5_f6z1" name="n5" xy="0,0" size="220,64" advanced="true" layout="hz" colGap="-30" excludeInvisibles="true"/>
+  </displayList>
+</component>

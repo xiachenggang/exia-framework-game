@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="127,72">
+  <displayList>
+    <image id="n6_vtv4" name="n6" src="vtv45x" fileName="common_component/bottom/foot/image/home_bottom_select2.png" xy="0,0"/>
+    <image id="n5_vtv4" name="n5" src="vtv45y" fileName="common_component/bottom/foot/image/home_bottom_tab1.png" xy="18,-35"/>
+    <component id="n4_vtv4" name="n4" src="vtv46a" fileName="common_component/bottom/foot/inspector_btn.xml" xy="0,0"/>
+    <text id="n7_vtv4" name="n7" xy="28,41" size="69,32" fontSize="22" color="#996666" strokeColor="#000000" text="11111"/>
+  </displayList>
+</component>

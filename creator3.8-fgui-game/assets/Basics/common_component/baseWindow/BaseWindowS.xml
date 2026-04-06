@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="603,349" extention="Label" initName="frame">
+  <displayList>
+    <image id="n1_vtv4" name="n1" src="vtv41r" fileName="common_res/panel/panel_popup_S.png" xy="0,2"/>
+    <component id="n2_vtv4" name="closeButton" src="vtv45p" fileName="common_component/baseWindow/BaseWindowCloseBtn.xml" xy="538,9"/>
+    <text id="n0_vtv4" name="title" xy="208,16" size="193,36" fontSize="26" color="#ffffff" align="center" vAlign="middle" autoSize="none" strokeColor="#000000" strokeSize="0.5" singleLine="true" text="奖励预览">
+      <relation target="" sidePair="width-width,height-height"/>
+    </text>
+    <graph id="n3_vtv4" name="contentArea" xy="12,64" size="578,267"/>
+  </displayList>
+</component>

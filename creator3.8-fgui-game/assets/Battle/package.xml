@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="c48ae251">
+  <resources>
+    <component id="vtv40" name="BattleMainWindow.xml" path="/" exported="true"/>
+    <component id="vtv41" name="BattleFailWindow.xml" path="/" exported="true"/>
+    <image id="vtv42" name="battle_btn_addpart.png" path="/image/"/>
+    <image id="vtv43" name="battle_redbg_choose.png" path="/image/"/>
+    <image id="vtv44" name="battle_roundbg.png" path="/image/"/>
+    <image id="vtv45" name="battle_skill_bg1.png" path="/image/"/>
+    <image id="vtv46" name="battle_skill_bg2.png" path="/image/"/>
+    <image id="vtv47" name="battle_skill_fg1.png" path="/image/"/>
+    <image id="vtv48" name="battle_skill_fg2.png" path="/image/"/>
+    <image id="vtv49" name="battle_skill_info1.png" path="/image/"/>
+    <image id="vtv4a" name="battle_skill_info2.png" path="/image/"/>
+    <image id="vtv4b" name="battle_redbg_bg.png" path="/image/"/>
+    <image id="vtv4c" name="battle_skill_mask.png" path="/image/"/>
+    <image id="vtv4d" name="battle_tab_mask.png" path="/image/"/>
+    <image id="vtv4e" name="battle_team_arrow.png" path="/image/"/>
+    <image id="vtv4f" name="battle_team_point.png" path="/image/"/>
+    <image id="vtv4g" name="battle_team_rewrite.png" path="/image/"/>
+    <image id="vtv4h" name="battle_win_bg.png" path="/image/"/>
+    <image id="vtv4i" name="battle_win_line.png" path="/image/"/>
+    <image id="vtv4j" name="battle_arrow.png" path="/image/"/>
+    <image id="vtv4k" name="battle_bluebg.png" path="/image/"/>
+    <image id="vtv4l" name="battle_tab_lockbg.png" path="/image/" scale="9grid" scale9grid="11,5,84,12"/>
+    <image id="vtv4m" name="battle_redbg.png" path="/image/"/>
+    <image id="vtv4n" name="battle_power_progress2.png" path="/image/"/>
+    <image id="vtv4o" name="battle_power_progress1.png" path="/image/"/>
+    <image id="vtv4p" name="battle_btn_skip.png" path="/image/"/>
+    <image id="vtv4q" name="battle_btn_speed.png" path="/image/"/>
+    <image id="vtv4r" name="battle_btn_speed2.png" path="/image/"/>
+    <image id="vtv4s" name="battle_btn_speed2_rotate.png" path="/image/"/>
+    <image id="vtv4t" name="battle_btn_start.png" path="/image/"/>
+    <image id="vtv4u" name="battle_card_select.png" path="/image/"/>
+    <image id="vtv4v" name="battle_ico_restraint.png" path="/image/"/>
+    <image id="vtv4w" name="battle_inteam.png" path="/image/"/>
+    <image id="vtv4x" name="battle_lose_go.png" path="/image/"/>
+    <image id="vtv4y" name="battle_lose_ico1.png" path="/image/"/>
+    <image id="vtv4z" name="battle_lose_ico2.png" path="/image/"/>
+    <image id="vtv410" name="battle_lose_ico3.png" path="/image/"/>
+    <image id="vtv411" name="battle_lose_listbg.png" path="/image/"/>
+    <image id="vtv412" name="battle_namebg.png" path="/image/"/>
+    <image id="vtv413" name="battle_panel_title.png" path="/image/"/>
+    <image id="vtv414" name="battle_panel_warn.png" path="/image/"/>
+    <image id="vtv415" name="battle_power_bar.png" path="/image/"/>
+    <image id="vtv416" name="battle_power_bar_S.png" path="/image/"/>
+    <image id="vtv417" name="battle_power_progress_S.png" path="/image/"/>
+    <image id="vtv418" name="battle_bluebg_bg.png" path="/image/"/>
+    <image id="vtv419" name="battle_bluebg_choose.png" path="/image/"/>
+    <component id="uecd1a" name="BattleFieldBlueItem.xml" path="/items/"/>
+    <component id="uecd1b" name="BattleFieldRedItem.xml" path="/items/"/>
+    <component id="uecd1c" name="BattleTeamWindow.xml" path="/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

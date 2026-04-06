@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="114,512">
+  <displayList>
+    <image id="n18_f6z1" name="n18" src="vtv44m" fileName="common_res/tab/tab_bottom.png" xy="0,-19" size="120,550"/>
+    <image id="n17_f6z1" name="n17" src="vtv44s" fileName="common_res/tab/tab_selected2.png" xy="0,0"/>
+    <component id="n7_f6z1" name="n7" src="f6z16e" fileName="common_component/hero/item/occItem.xml" xy="23,14" group="n13_f6z1"/>
+    <component id="n8_f6z1" name="n8" src="f6z16e" fileName="common_component/hero/item/occItem.xml" xy="23,97" group="n13_f6z1"/>
+    <component id="n9_f6z1" name="n9" src="f6z16e" fileName="common_component/hero/item/occItem.xml" xy="23,180" group="n13_f6z1"/>
+    <component id="n10_f6z1" name="n10" src="f6z16e" fileName="common_component/hero/item/occItem.xml" xy="23,263" group="n13_f6z1"/>
+    <component id="n11_f6z1" name="n11" src="f6z16e" fileName="common_component/hero/item/occItem.xml" xy="23,346" group="n13_f6z1"/>
+    <component id="n12_f6z1" name="n12" src="f6z16e" fileName="common_component/hero/item/occItem.xml" xy="23,429" group="n13_f6z1"/>
+    <group id="n13_f6z1" name="n13" xy="23,14" size="68,483" advanced="true" layout="vt" lineGap="15" excludeInvisibles="true"/>
+  </displayList>
+</component>
