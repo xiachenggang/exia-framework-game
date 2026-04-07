@@ -14,7 +14,7 @@ export class GameEntry extends CORE.CocosEntry {
     private root: Node = null;
 
     /**初始化游戏环境*/
-    onInit(): void {
+    public onInit(): void {
         // 初始化设备ID
         let deviceId = sys.localStorage.getItem("xBBres") as string;
         if (!deviceId || deviceId === "") {
